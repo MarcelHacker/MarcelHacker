@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a biomechanical investigation about the sumo and conventional deadlift.
+- 🌱 I’m currently learning biomechanical motion analysis.
+- 💬 Ask me about the deadlift excersice.
+- 📫 How to reach me: marcel.hacker@univie.ac.at
+
+
 <!--
 **MarcelHacker/MarcelHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
